@@ -1,16 +1,21 @@
-# moji-dark README
+<p align="center">
+<bold>
+ # Moji Dark Theme #
+</bold>
+</p>
 
-## Working with Markdown
+![screenshot](https://raw.githubusercontent.com/Moji7798/moji-dark/main/img/screenshot.PNG)
+  
+## Installation
+* Go to Extensions section
+* Search for `moji-dark`
+* Click Install
+* [Change theme](https://code.visualstudio.com/docs/getstarted/themes#_selecting-the-color-theme)
 
-You can author your README using Visual Studio Code. Here are some useful editor keyboard shortcuts:
+### or 
+* [vscode marketplace](https://marketplace.visualstudio.com/items?itemName=moji7798.moji-dark)
 
-* Split the editor (`Cmd+\` on macOS or `Ctrl+\` on Windows and Linux).
-* Toggle preview (`Shift+Cmd+V` on macOS or `Shift+Ctrl+V` on Windows and Linux).
-* Press `Ctrl+Space` (Windows, Linux, macOS) to see a list of Markdown snippets.
+<br>
 
-## For more information
-
-* [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-* [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
-
-**Enjoy!**
+## LICENCE
+**[MIT](https://github.com/Moji7798/moji-dark/blob/main/LICENSE)** 
