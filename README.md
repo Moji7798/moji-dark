@@ -25,7 +25,3 @@
 - Browse and select the VSIX file of the extension you downloaded.
 
 <br>
-
-## LICENCE
-
-**[MIT](https://github.com/Moji7798/moji-dark/blob/main/LICENSE)**
