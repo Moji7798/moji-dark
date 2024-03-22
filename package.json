@@ -6,6 +6,17 @@
   "engines": {
     "vscode": "^1.87.0"
   },
+  "publisher": "moji7798",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Moji7798/moji-dark.git"
+  },
+  "keywords": [
+    "dark theme",
+    "theme",
+    "moji dark theme",
+    "purple theme"
+  ],
   "categories": [
     "Themes"
   ],
